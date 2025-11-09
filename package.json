@@ -1,0 +1,23 @@
+{
+  "name": "turneasy",
+  "version": "1.0.0",
+  "description": "Gestionnaire de pupitres d'orchestre",
+  "homepage": "https://github.com/khalou69/TurnEasy#readme",
+  "bugs": {
+    "url": "https://github.com/khalou69/TurnEasy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalou69/TurnEasy.git"
+  },
+  "license": "MIT",
+  "author": "Khalou",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^12.5.0"
+  }
+}
